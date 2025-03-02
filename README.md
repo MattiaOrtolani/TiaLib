@@ -1,0 +1,30 @@
+# TiaLib
+
+<br>
+
+<p>
+    è una libreria creata da me con lo scopo di velocizzare i tempi di creazione di piccoli componenti copiando ed incollando soltanto l'html dell'elemento
+</p>
+
+---
+<br>
+
+## Toggle button
+
+<p align="center">
+    <img src="assets/img/toggle-button.gif" width="200" align-center>
+</p>
+
+``` html
+<input type="checkbox" name="" id="1" class="toggle-button">
+<label for="1" class="button">
+    <div class="button__circle"></div>
+</label>
+```
+
+
+<p>input radio trasformato in un toggle, cambiare l' <span style="font-weight: 800;">id</span> e il parametro <span style="font-weight: 800;">for</span> per settarlo al meglio in JS</p>
+
+<br>
+
+---
