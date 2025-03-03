@@ -9,19 +9,19 @@
 
     &:checked + label .button__circle
     {
-        transform: translateX(19px);
+        transform: translateX(17px);
     }
 }
 
 .button
 {
     height: 20px;
-    width: 40px;
+    width: 38px;
     border-radius: 100px;
     background-color: rgb(149, 149, 149);
     display: flex;
     align-items: center;
-    transition: all .3s .2s;
+    transition: all .1s .15s;
     cursor: pointer;
 
     &__circle
@@ -31,6 +31,6 @@
         background-color: white;
         border-radius: 100px;
         margin: 0 3px;
-        transition: all .3s ease-out;
+        transition: all .15s ease-out;
     }
 }
