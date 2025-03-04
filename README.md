@@ -3,7 +3,7 @@
 <br>
 
 <p>
-    è una libreria creata da me con lo scopo di velocizzare i tempi di creazione di piccoli componenti copiando ed incollando soltanto l'html dell'elemento
+    è una libreria creata da me con lo scopo di velocizzare i tempi di creazione di piccoli componenti copiando ed incollando.
 </p>
 
 ---
