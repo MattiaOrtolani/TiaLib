@@ -27,7 +27,7 @@
 ## Toggle button
 
 <p align="center">
-    <img src="assets/img/toggle-button.gif" width="200" align-center>
+    <img src="assets/img/toggle-button.png" width="200" align-center>
 </p>
 
 ``` html
