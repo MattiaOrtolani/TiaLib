@@ -6,7 +6,7 @@
     è una libreria creata da me con lo scopo di velocizzare i tempi di creazione di piccoli componenti copiando ed incollando soltanto l'html dell'elemento
 </p>
 
-<!-- ---
+---
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ```   html
 <link rel="stylesheet" href="https://mattiaortolani.github.io/TiaLib/css/compressed.css">
-``` -->
+```
 
 ---
 
