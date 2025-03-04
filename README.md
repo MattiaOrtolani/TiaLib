@@ -17,7 +17,7 @@
 </p>
 
 ```   html
-     <link rel="stylesheet" href="https://mattiaortolani.github.io/TiaLib/css/compressed.css">
+<link rel="stylesheet" href="https://mattiaortolani.github.io/TiaLib/css/compressed.css">
 ```
 
 ---
