@@ -6,7 +6,7 @@
     è una libreria creata da me con lo scopo di velocizzare i tempi di creazione di piccoli componenti copiando ed incollando soltanto l'html dell'elemento
 </p>
 
----
+<!-- ---
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ```   html
 <link rel="stylesheet" href="https://mattiaortolani.github.io/TiaLib/css/compressed.css">
-```
+``` -->
 
 ---
 
@@ -41,5 +41,3 @@
 <p>input radio trasformato in un toggle, cambiare l' <span style="font-weight: 800;">id</span> ed il parametro <span style="font-weight: 800;">for</span> per settarlo al meglio in JS. <br> utilizzare lo style: <code>transform: scale(1);</code> per aumentarne o diminuirne la grandezza.</p>
 
 <br>
-
----
